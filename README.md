@@ -10,3 +10,6 @@ Here are some resources I used and found helpful in making these maps:
 - http://emelineliu.com/2016/10/21/LocationHistory/
 - https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/ggmap/ggmapCheatsheet.pdf
 - http://www.geo.ut.ee/aasa/LOOM02331/heatmap_in_R.html
+
+You can download your Google Location History here - note that you need to have location history turned on to have data be generated:
+https://takeout.google.com/settings/takeout
