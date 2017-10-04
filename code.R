@@ -11,7 +11,7 @@ library(plyr)
 
 #### Load data ####
 
-system.time(x <- fromJSON("/Users/toridykes1/Projects/Google Location Data/Takeout/Location History/Location History.json"))
+system.time(x <- fromJSON("Location History.json"))
 
 ## System time isn't really necessary here as far as I can tell; just tells you how long the process took
 
